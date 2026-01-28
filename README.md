@@ -52,6 +52,7 @@ Responsive layout for better usability
 🚪 Logout Functionality
 
 Safely returns users to the landing page
+
 🛠️ Tech Stack
 
 HTML5 – Structure
