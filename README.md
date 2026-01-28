@@ -1,4 +1,4 @@
-# HCI_06_Mood_Matcher
+# Mood Matcher – Emotion Guidance Web Application 
 🌈 Mood Matcher
 
 Mood Matcher is a simple, interactive web application designed to help users understand and manage their emotions. Based on the selected mood, the app provides Do’s & Don’ts, motivational stories, and inspirational quotes to guide users toward emotional balance and self-awareness.
