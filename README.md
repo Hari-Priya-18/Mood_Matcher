@@ -62,3 +62,41 @@ CSS3 – Styling and layout
 JavaScript (Vanilla) – Logic, navigation, and emotion handling
 
 Browser LocalStorage – User data persistence
+
+📸 Screens Overview
+
+Landing Page
+
+Registration & Login Pages
+
+Emotion Selection Page
+
+Emotion Details (Do’s, Don’ts, Stories, Quotes)
+🎯 Use Cases
+
+Emotional awareness and self-reflection
+
+Beginner-friendly mental wellness demo app
+
+Frontend mini-project for academic submission
+
+Portfolio project showcasing JavaScript logic
+
+🔮 Future Enhancements
+
+Backend authentication (Node.js / Firebase)
+
+Password encryption
+
+Mood history tracking
+
+AI-based mood detection
+
+Mobile app version
+
+Accessibility improvements
+👨‍💻 Author
+
+Katherla Hari Priya
+B.Tech CSE Student
+
