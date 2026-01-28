@@ -95,8 +95,10 @@ AI-based mood detection
 Mobile app version
 
 Accessibility improvements
+
 👨‍💻 Author
 
 Katherla Hari Priya
+
 B.Tech CSE Student
 
